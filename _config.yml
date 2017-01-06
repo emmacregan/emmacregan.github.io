@@ -16,8 +16,7 @@
 title: Emma Regan
 author: Emma Regan
 email: emma.regan at berkeley.edu
-description: > # this means to ignore newlines until "baseurl:"
- # *** add a description later***
+description: # *** add a description later***
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
